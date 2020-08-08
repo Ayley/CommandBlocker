@@ -1,0 +1,9 @@
+name: CommandBlocker
+version: 1.2
+main: de.kleidukos.main.CommandBlocker
+author: Kleidukos
+commands:
+  CommandBlocker:
+    description: Reload the BlockedCommands Config.
+    permission: cb.reload
+    aliases: cb
